@@ -81,16 +81,9 @@ The current page uses:
 
 An internet connection may be required for these external resources to load. For production use, download and host approved image assets locally where appropriate.
 
-## Attribution and Credit
+## Collaboration
 
-This website was designed and developed by **Gabriel Odunuga**. Please retain visible credit to Gabriel Odunuga when reusing, publishing, presenting, or modifying this project.
-
-When sharing this website or displaying it online, please credit the creator on LinkedIn or another public platform and link back to the following profiles:
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel-odunuga-rimi-49ab95219/)
-- [GitHub](https://github.com/gabrielodunuga)
-
-For permission, collaboration, support, or project enquiries, contact [gabrielodunuga0@gmail.com](mailto:gabrielodunuga0@gmail.com).
+For collaboration, support, or project enquiries, contact [gabrielodunuga0@gmail.com](mailto:gabrielodunuga0@gmail.com).
 
 ## License
 
